@@ -1,6 +1,6 @@
 # Functionality Prediction 
 
-![Title-Slide](files/tanzania.jpg)
+![Title-Slide](Images/tanzania.jpg)
 
 #
 ### Project File Summary
