@@ -1,6 +1,6 @@
 # Functionality Prediction 
 
-![Title-Slide](files/waterpoint_header.jpg)
+![Title-Slide](files/tanzania.jpg)
 
 #
 ### Project File Summary
