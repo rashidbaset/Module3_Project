@@ -1,4 +1,4 @@
-# Functionality Prediction 
+# Well Functionality Prediction 
 
 ![Title-Slide](Images/tanzania.jpg)
 
